@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.7",
+    "jest": "^29.6.2",
+    "test-watch": "jest --watch"
+  }
+}
